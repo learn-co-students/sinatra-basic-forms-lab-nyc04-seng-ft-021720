@@ -8,8 +8,7 @@ available for adoption. Good thing you love puppies _and_ coding!
 
 ## Objectives
 
-1. Implement a POST request to the controller to display data from a user in
-   the view
+1. Implement a POST request to the controller to display data from a user inthe view
 2. Implement both POST and GET requests
 3. Connect a controller action with both a view and a model
 
